@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Hello World!";
+		return "Hello World! \n This is the first simple web app written in java. \n Good luck with all the new learnings";
 	}
 }
